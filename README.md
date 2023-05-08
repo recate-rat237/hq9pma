@@ -1,6 +1,6 @@
 # HQ9+-A
 
-hq9pmA (Or HQ9+-A Interpreter) 
+hq9pma (Or HQ9+-A Interpreter) 
 
 ### List of instructions: 
 * H
@@ -18,7 +18,7 @@ hq9pmA (Or HQ9+-A Interpreter)
 
 ### 'Q'
 
-**'Q'** - Show source
+**'Q'** - Show source code
 
 ### '9'
 
